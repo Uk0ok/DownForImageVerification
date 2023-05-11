@@ -1,0 +1,43 @@
+[2023.02.16,13:18:21] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.16,13:18:27] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.16,13:18:31] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.16,13:18:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.16,13:18:39] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.16,13:19:29] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393300::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393400::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393403::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393406::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393409::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393300::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393400::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393403::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393406::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393409::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393301::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393401::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393404::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393407::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340a::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393301::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393401::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393404::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393407::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340a::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393302::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393402::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393405::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393408::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340b::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393302::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393402::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393405::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393408::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340b::IMAGE
+[2023.02.16,13:19:31] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.16,13:19:31] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----

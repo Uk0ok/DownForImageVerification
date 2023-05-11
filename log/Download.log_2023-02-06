@@ -1,0 +1,113 @@
+[2023.02.06,09:11:56] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:11:58] [com.ecm.download.Down_run.select(Down_run.java:124)}] - Select Download List Error, ORA-00942: 테이블 또는 뷰가 존재하지 않습니다
+
+[2023.02.06,09:11:58] [com.ecm.download.Down_run.run(Down_run.java:44)}] - No Download Target File
+[2023.02.06,09:11:58] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:20:59] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:21:00] [com.ecm.download.Down_run.select(Down_run.java:124)}] - Select Download List Error, ORA-00942: 테이블 또는 뷰가 존재하지 않습니다
+
+[2023.02.06,09:21:00] [com.ecm.download.Down_run.run(Down_run.java:44)}] - No Download Target File
+[2023.02.06,09:21:00] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:21:26] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:21:32] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.06,09:21:36] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.06,09:21:40] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.06,09:21:40] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:22:46] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:22:51] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.06,09:22:56] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.06,09:23:00] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.06,09:23:00] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:30:38] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:30:40] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XVARM_MAIN not found in current definitions.
+[2023.02.06,09:30:40] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XVARM_MAIN not found in current definitions.
+[2023.02.06,09:30:40] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XVARM_MAIN not found in current definitions.
+[2023.02.06,09:30:40] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:30:57] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:30:59] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.06,09:30:59] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.06,09:30:59] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.06,09:30:59] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:51:00] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:51:02] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XVARM_MAIN not found in current definitions.
+[2023.02.06,09:51:02] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XVARM_MAIN not found in current definitions.
+[2023.02.06,09:51:02] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XVARM_MAIN not found in current definitions.
+[2023.02.06,09:51:02] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:51:15] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:51:17] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.06,09:51:17] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.06,09:51:17] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.06,09:51:17] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:52:37] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:52:39] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download There are no available archives that can access content for element 2023020216522701, last local path LOCALDISK01/20230202/3/2023020216522701.
+[2023.02.06,09:52:39] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download There are no available archives that can access content for element 2023020216522600, last local path LOCALDISK01/20230202/1/2023020216522600.
+[2023.02.06,09:52:39] [com.ecm.download.Down_run.download(Down_run.java:92)}] - Error - download There are no available archives that can access content for element 2023020216522700, last local path LOCALDISK01/20230202/2/2023020216522700.
+[2023.02.06,09:52:39] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:55:13] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:55:14] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Error - download There are no available archives that can access content for element 2023020216522701, last local path LOCALDISK01/20230202/3/2023020216522701.
+[2023.02.06,09:55:14] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Error - download There are no available archives that can access content for element 2023020216522600, last local path LOCALDISK01/20230202/1/2023020216522600.
+[2023.02.06,09:55:14] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Error - download There are no available archives that can access content for element 2023020216522700, last local path LOCALDISK01/20230202/2/2023020216522700.
+[2023.02.06,09:55:14] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,09:56:15] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,09:56:17] [com.ecm.download.Down_run.download(Down_run.java:94)}] - Error - download There are no available archives that can access content for element 2023020216522701, last local path LOCALDISK01/20230202/3/2023020216522701.
+[2023.02.06,09:56:17] [com.ecm.download.Down_run.download(Down_run.java:94)}] - Error - download There are no available archives that can access content for element 2023020216522600, last local path LOCALDISK01/20230202/1/2023020216522600.
+[2023.02.06,09:56:17] [com.ecm.download.Down_run.download(Down_run.java:94)}] - Error - download There are no available archives that can access content for element 2023020216522700, last local path LOCALDISK01/20230202/2/2023020216522700.
+[2023.02.06,09:56:17] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:02:16] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:02:18] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.06,10:02:18] [com.ecm.download.Down_run.updateQuery(Down_run.java:159)}] - update status Error, 부적합한 열 인덱스
+[2023.02.06,10:02:18] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.06,10:02:18] [com.ecm.download.Down_run.updateQuery(Down_run.java:159)}] - update status Error, 부적합한 열 인덱스
+[2023.02.06,10:02:18] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.06,10:02:18] [com.ecm.download.Down_run.updateQuery(Down_run.java:159)}] - update status Error, 부적합한 열 인덱스
+[2023.02.06,10:02:18] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:03:28] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:03:30] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.06,10:03:30] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.06,10:03:30] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.06,10:03:30] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:14:03] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:14:05] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522701, last local path LOCALDISK01_NEW/20230202/3/2023020216522701.
+[2023.02.06,10:14:05] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522600, last local path LOCALDISK01_NEW/20230202/1/2023020216522600.
+[2023.02.06,10:14:05] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522700, last local path LOCALDISK01_NEW/20230202/2/2023020216522700.
+[2023.02.06,10:14:05] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:14:56] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:14:58] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.06,10:14:58] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522701, last local path LOCALDISK01_NEW/20230202/3/2023020216522701.
+[2023.02.06,10:14:58] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.06,10:14:58] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522600, last local path LOCALDISK01_NEW/20230202/1/2023020216522600.
+[2023.02.06,10:14:58] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.06,10:14:58] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522700, last local path LOCALDISK01_NEW/20230202/2/2023020216522700.
+[2023.02.06,10:14:58] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:16:40] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:16:42] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.06,10:16:42] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.06,10:16:42] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.06,10:16:42] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.06,10:16:42] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.06,10:16:43] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.06,10:16:43] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:25:39] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:25:40] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522701, last local path LOCALDISK01_NEW/20230202/3/2023020216522701.
+[2023.02.06,10:25:40] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522600, last local path LOCALDISK01_NEW/20230202/1/2023020216522600.
+[2023.02.06,10:25:40] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522700, last local path LOCALDISK01_NEW/20230202/2/2023020216522700.
+[2023.02.06,10:25:40] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:26:08] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:26:10] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522701, last local path LOCALDISK01/20230202/3/2023020216522701.
+[2023.02.06,10:26:10] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522600, last local path LOCALDISK01/20230202/1/2023020216522600.
+[2023.02.06,10:26:10] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download There are no available archives that can access content for element 2023020216522700, last local path LOCALDISK01/20230202/2/2023020216522700.
+[2023.02.06,10:26:10] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.06,10:26:35] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.updateQuery(Down_run.java:160)}] - update status Error, ORA-12899: "XCARM"."ASYSCONTENTELEMENT"."VOLUMEID" 열에 대한 값이 너무 큼(실제: 20, 최대값: 16)
+
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.updateQuery(Down_run.java:160)}] - update status Error, ORA-12899: "XCARM"."ASYSCONTENTELEMENT"."VOLUMEID" 열에 대한 값이 너무 큼(실제: 20, 최대값: 16)
+
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.updateQuery(Down_run.java:160)}] - update status Error, ORA-12899: "XCARM"."ASYSCONTENTELEMENT"."VOLUMEID" 열에 대한 값이 너무 큼(실제: 20, 최대값: 16)
+
+[2023.02.06,10:26:37] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.06,10:26:37] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----

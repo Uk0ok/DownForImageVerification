@@ -1,0 +1,101 @@
+[2023.02.09,11:13:57] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,11:13:59] [com.ecm.download.Down_run.select(Down_run.java:127)}] - Select Download List Error, ORA-00942: 테이블 또는 뷰가 존재하지 않습니다
+
+[2023.02.09,11:13:59] [com.ecm.download.Down_run.run(Down_run.java:45)}] - No Download Target File
+[2023.02.09,11:13:59] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,11:21:33] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,11:21:35] [com.ecm.download.Down_run.select(Down_run.java:127)}] - Select Download List Error, ORA-00942: 테이블 또는 뷰가 존재하지 않습니다
+
+[2023.02.09,11:21:35] [com.ecm.download.Down_run.run(Down_run.java:45)}] - No Download Target File
+[2023.02.09,11:21:35] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,11:23:06] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,11:23:08] [com.ecm.download.Down_run.select(Down_run.java:127)}] - Select Download List Error, ORA-00942: 테이블 또는 뷰가 존재하지 않습니다
+
+[2023.02.09,11:23:08] [com.ecm.download.Down_run.run(Down_run.java:45)}] - No Download Target File
+[2023.02.09,11:23:08] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,13:10:59] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:11:23] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:12:07] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection timed out: connect
+[2023.02.09,13:12:49] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection timed out: connect
+[2023.02.09,13:13:31] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection timed out: connect
+[2023.02.09,13:13:31] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,13:29:35] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:30:19] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection timed out: connect
+[2023.02.09,13:31:01] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection timed out: connect
+[2023.02.09,13:31:43] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection timed out: connect
+[2023.02.09,13:31:43] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,13:34:26] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:37:06] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:37:31] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:37:37] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.09,13:37:41] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.09,13:37:45] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.09,13:37:45] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,13:37:49] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:37:55] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.09,13:37:59] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.09,13:38:03] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.09,13:38:03] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,13:38:32] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:38:34] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.09,13:38:34] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.09,13:38:34] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download External engine XTORM_MAIN not found in current definitions.
+[2023.02.09,13:38:34] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,13:38:53] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.updateQuery(Down_run.java:160)}] - update status Error, ORA-12899: "XCARM"."ASYSCONTENTELEMENT"."VOLUMEID" 열에 대한 값이 너무 큼(실제: 20, 최대값: 16)
+
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.updateQuery(Down_run.java:160)}] - update status Error, ORA-12899: "XCARM"."ASYSCONTENTELEMENT"."VOLUMEID" 열에 대한 값이 너무 큼(실제: 20, 최대값: 16)
+
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.updateQuery(Down_run.java:160)}] - update status Error, ORA-12899: "XCARM"."ASYSCONTENTELEMENT"."VOLUMEID" 열에 대한 값이 너무 큼(실제: 20, 최대값: 16)
+
+[2023.02.09,13:38:55] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.09,13:38:55] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,13:59:08] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,13:59:10] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.09,13:59:10] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,13:59:10] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.09,13:59:10] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,13:59:10] [com.ecm.download.Down_run.download(Down_run.java:98)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.09,13:59:10] [com.ecm.download.Down_run.download(Down_run.java:95)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,13:59:10] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,14:08:12] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,14:08:14] [com.ecm.download.Down_run.download(Down_run.java:93)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,14:08:14] [com.ecm.download.Down_run.download(Down_run.java:93)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,14:08:14] [com.ecm.download.Down_run.download(Down_run.java:93)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,14:08:14] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,14:09:12] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,14:09:14] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020216522701::IMAGE
+[2023.02.09,14:09:14] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020216522600::IMAGE
+[2023.02.09,14:09:14] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.09,14:09:14] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,14:31:35] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,14:31:37] [com.ecm.download.Down_run.select(Down_run.java:125)}] - Select Download List Error, ORA-00942: 테이블 또는 뷰가 존재하지 않습니다
+
+[2023.02.09,14:31:37] [com.ecm.download.Down_run.run(Down_run.java:44)}] - No Download Target File
+[2023.02.09,14:31:37] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,14:32:20] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,14:32:22] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020914291700::IMAGE
+[2023.02.09,14:32:22] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020914264700::IMAGE
+[2023.02.09,14:32:22] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020914291600::IMAGE
+[2023.02.09,14:32:22] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020914260601::IMAGE
+[2023.02.09,14:32:22] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,17:46:30] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,17:47:21] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,17:47:23] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::202302091552480j::IMAGE
+[2023.02.09,17:47:23] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::202302091552500k::IMAGE
+[2023.02.09,17:47:23] [com.ecm.download.Down_run.download(Down_run.java:93)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,17:47:23] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020915524805::IMAGE
+[2023.02.09,17:47:23] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020216522700::IMAGE
+[2023.02.09,17:47:23] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.09,17:47:38] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.09,17:47:40] [com.ecm.download.Down_run.download(Down_run.java:93)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.09,17:47:40] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::202302091552490s::IMAGE
+[2023.02.09,17:47:40] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020915524805::IMAGE
+[2023.02.09,17:47:40] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020915524809::IMAGE
+[2023.02.09,17:47:40] [com.ecm.download.Down_run.download(Down_run.java:96)}] - Success - download XCARM_MAIN::2023020915394700::IMAGE
+[2023.02.09,17:47:40] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----

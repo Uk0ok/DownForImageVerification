@@ -1,0 +1,16 @@
+[2023.02.10,16:31:15] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.10,16:31:59] [com.ecm.download.Down_run.download(Down_run.java:97)}] - Error - download asysConnectData::xmit 1 --> Connection timed out: connect
+[2023.02.10,16:37:52] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.10,16:37:54] [com.ecm.download.Down_run.download(Down_run.java:100)}] - Success - download XCARM_MAIN::202302091552490r::IMAGE
+[2023.02.10,16:37:54] [com.ecm.download.Down_run.download(Down_run.java:100)}] - Success - download XCARM_MAIN::2023020914245601::IMAGE
+[2023.02.10,16:37:54] [com.ecm.download.Down_run.download(Down_run.java:100)}] - Success - download XCARM_MAIN::2023020915524910::IMAGE
+[2023.02.10,16:37:54] [com.ecm.download.Down_run.download(Down_run.java:100)}] - Success - download XCARM_MAIN::2023020915423201::IMAGE
+[2023.02.10,16:37:54] [com.ecm.download.Down_run.download(Down_run.java:100)}] - Success - download XCARM_MAIN::2023020914285700::IMAGE
+[2023.02.10,16:37:54] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----
+[2023.02.10,16:38:54] [com.ecm.download.Down_main.main(Down_main.java:33)}] - ----- Process Start -----
+[2023.02.10,16:38:56] [com.ecm.download.Down_run.download(Down_run.java:102)}] - Success - download XCARM_MAIN::202302091552490p::IMAGE
+[2023.02.10,16:38:56] [com.ecm.download.Down_run.download(Down_run.java:102)}] - Success - download XCARM_MAIN::202302091552480h::IMAGE
+[2023.02.10,16:38:56] [com.ecm.download.Down_run.download(Down_run.java:102)}] - Success - download XCARM_MAIN::2023020914245602::IMAGE
+[2023.02.10,16:38:56] [com.ecm.download.Down_run.download(Down_run.java:102)}] - Success - download XCARM_MAIN::2023020915413501::IMAGE
+[2023.02.10,16:38:56] [com.ecm.download.Down_run.download(Down_run.java:102)}] - Success - download XCARM_MAIN::202302091552500l::IMAGE
+[2023.02.10,16:38:56] [com.ecm.download.Down_main.main(Down_main.java:64)}] - ----- Process End -----

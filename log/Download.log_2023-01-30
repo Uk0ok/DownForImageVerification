@@ -1,0 +1,7 @@
+[2023.01.30,11:42:37] [com.ecm.download.Down_main.main(Down_main.java:37)}] - ----- Process Start -----
+[2023.01.30,11:42:38] [com.ecm.download.Down_run.download(Down_run.java:75)}] - Error - downloadAn unhandled Exception (java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 21) was thrown by the engine=XVARM_MAIN component.
+[2023.01.30,11:42:38] [com.ecm.download.Down_run.download(Down_run.java:75)}] - Error - downloadAn unhandled Exception (java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 21) was thrown by the engine=XVARM_MAIN component.
+[2023.01.30,11:42:38] [com.ecm.download.Down_run.download(Down_run.java:75)}] - Error - downloadAn unhandled Exception (java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 21) was thrown by the engine=XVARM_MAIN component.
+[2023.01.30,11:42:38] [com.ecm.download.Down_run.download(Down_run.java:75)}] - Error - downloadAn unhandled Exception (java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 21) was thrown by the engine=XVARM_MAIN component.
+[2023.01.30,11:42:38] [com.ecm.download.Down_run.download(Down_run.java:75)}] - Error - downloadAn unhandled Exception (java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 21) was thrown by the engine=XVARM_MAIN component.
+[2023.01.30,11:42:38] [com.ecm.download.Down_main.main(Down_main.java:68)}] - ----- Process End -----

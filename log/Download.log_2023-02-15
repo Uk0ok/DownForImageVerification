@@ -1,0 +1,444 @@
+[2023.02.15,10:39:56] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,10:40:17] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.update(Down_run.java:203)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download No data engine has been initialized called XCARM_MAIN.
+[2023.02.15,10:40:19] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,10:40:19] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,10:40:31] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141300 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141301 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141302 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141303 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141304 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.update(Down_run.java:203)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141300 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141301 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141302 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141303 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Element 2023021409141304 not found in the database.
+[2023.02.15,10:40:33] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,10:40:33] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,10:40:58] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,10:41:00] [com.ecm.download.Down_run.run(Down_run.java:48)}] - There's No Volume
+[2023.02.15,10:41:00] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,10:42:33] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,10:42:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XTORM_MAIN::2023021417421700::IMAGE
+[2023.02.15,10:42:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XTORM_MAIN::2023021417421800::IMAGE
+[2023.02.15,10:42:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XTORM_MAIN::2023021417421801::IMAGE
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XTORM_MAIN::2023021417421802::IMAGE
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XTORM_MAIN::2023021417421803::IMAGE
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.update(Down_run.java:203)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,10:42:36] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,10:42:36] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,11:19:25] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421700::IMAGE
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421800::IMAGE
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421801::IMAGE
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421802::IMAGE
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421803::IMAGE
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.update(Down_run.java:201)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download Error accessing the archive definition tables (Volume LOCAL_VOL001_NEW isn't associated with any archive).
+[2023.02.15,11:19:27] [com.ecm.download.Down_run.recovery(Down_run.java:228)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,11:19:27] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,11:20:03] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,11:20:04] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421700::IMAGE
+[2023.02.15,11:20:04] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421800::IMAGE
+[2023.02.15,11:20:04] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421801::IMAGE
+[2023.02.15,11:20:04] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421802::IMAGE
+[2023.02.15,11:20:04] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421803::IMAGE
+[2023.02.15,11:20:04] [com.ecm.download.Down_run.update(Down_run.java:201)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,11:20:05] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,11:20:05] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,11:20:05] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,11:20:05] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,11:20:05] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,11:20:05] [com.ecm.download.Down_run.recovery(Down_run.java:228)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,11:20:05] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,11:22:18] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,11:22:19] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421700::IMAGE
+[2023.02.15,11:22:19] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421800::IMAGE
+[2023.02.15,11:22:19] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421801::IMAGE
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421802::IMAGE
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421803::IMAGE
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.update(Down_run.java:201)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,11:22:20] [com.ecm.download.Down_run.recovery(Down_run.java:228)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,11:22:20] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,11:25:54] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,11:25:55] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421700::IMAGE
+[2023.02.15,11:25:55] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421800::IMAGE
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421801::IMAGE
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421802::IMAGE
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021417421803::IMAGE
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.update(Down_run.java:201)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,11:25:56] [com.ecm.download.Down_run.recovery(Down_run.java:228)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,11:25:56] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:28:22] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.update(Down_run.java:201)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021517271300, last local path LOCAL_VOL002_NEW/20230215/0/2023021517271300.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021517271303, last local path LOCAL_VOL002_NEW/20230215/1/2023021517271303.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021517271306, last local path LOCAL_VOL002_NEW/20230215/2/2023021517271306.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021517271309, last local path LOCAL_VOL002_NEW/20230215/3/2023021517271309.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 202302151727130c, last local path LOCAL_VOL002_NEW/20230215/4/202302151727130c.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.recovery(Down_run.java:228)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:123)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.update(Down_run.java:201)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021517271301, last local path LOCAL_VOL003_NEW/20230215/0/2023021517271301.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021517271304, last local path LOCAL_VOL003_NEW/20230215/1/2023021517271304.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021517271307, last local path LOCAL_VOL003_NEW/20230215/2/2023021517271307.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 202302151727130a, last local path LOCAL_VOL003_NEW/20230215/3/202302151727130a.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 202302151727130d, last local path LOCAL_VOL003_NEW/20230215/4/202302151727130d.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.recovery(Down_run.java:228)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001/20230214/0/2023021417421700.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001/20230214/1/2023021417421800.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001/20230214/2/2023021417421801.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001/20230214/3/2023021417421802.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001/20230214/4/2023021417421803.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.update(Down_run.java:201)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.download(Down_run.java:120)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,17:28:25] [com.ecm.download.Down_run.recovery(Down_run.java:228)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:28:25] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:29:02] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517271300, last local path LOCAL_VOL002_NEW/20230215/0/2023021517271300.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517271303, last local path LOCAL_VOL002_NEW/20230215/1/2023021517271303.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517271306, last local path LOCAL_VOL002_NEW/20230215/2/2023021517271306.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517271309, last local path LOCAL_VOL002_NEW/20230215/3/2023021517271309.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151727130c, last local path LOCAL_VOL002_NEW/20230215/4/202302151727130c.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517271301, last local path LOCAL_VOL003_NEW/20230215/0/2023021517271301.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517271304, last local path LOCAL_VOL003_NEW/20230215/1/2023021517271304.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517271307, last local path LOCAL_VOL003_NEW/20230215/2/2023021517271307.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151727130a, last local path LOCAL_VOL003_NEW/20230215/3/202302151727130a.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151727130d, last local path LOCAL_VOL003_NEW/20230215/4/202302151727130d.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001/20230214/0/2023021417421700.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001/20230214/1/2023021417421800.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001/20230214/2/2023021417421801.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001/20230214/3/2023021417421802.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001/20230214/4/2023021417421803.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,17:29:05] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:29:05] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:30:33] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001/20230214/0/2023021417421700.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001/20230214/1/2023021417421800.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001/20230214/2/2023021417421801.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001/20230214/3/2023021417421802.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001/20230214/4/2023021417421803.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,17:30:35] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:30:35] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:32:00] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001/20230214/0/2023021417421700.
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001/20230214/1/2023021417421800.
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001/20230214/2/2023021417421801.
+[2023.02.15,17:32:02] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001/20230214/3/2023021417421802.
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001/20230214/4/2023021417421803.
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,17:32:03] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:32:03] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:36:11] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:36:13] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001/20230214/0/2023021417421700.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001/20230214/1/2023021417421800.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001/20230214/2/2023021417421801.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001/20230214/3/2023021417421802.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001/20230214/4/2023021417421803.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,17:36:14] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:36:14] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:36:36] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271300::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271303::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271306::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271309::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130c::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271301::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271304::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517271307::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130a::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151727130d::IMAGE
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001/20230214/0/2023021417421700.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001/20230214/1/2023021417421800.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001/20230214/2/2023021417421801.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001/20230214/3/2023021417421802.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001/20230214/4/2023021417421803.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421700, last local path LOCAL_VOL001_NEW/20230214/0/2023021417421700.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421800, last local path LOCAL_VOL001_NEW/20230214/1/2023021417421800.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421801, last local path LOCAL_VOL001_NEW/20230214/2/2023021417421801.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421802, last local path LOCAL_VOL001_NEW/20230214/3/2023021417421802.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021417421803, last local path LOCAL_VOL001_NEW/20230214/4/2023021417421803.
+[2023.02.15,17:36:38] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:36:38] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:38:39] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375100::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375103::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375106::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375109::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510c::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375100, last local path LOCAL_VOL002_NEW/20230215/33/2023021517375100.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375103, last local path LOCAL_VOL002_NEW/20230215/34/2023021517375103.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375106, last local path LOCAL_VOL002_NEW/20230215/35/2023021517375106.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375109, last local path LOCAL_VOL002_NEW/20230215/36/2023021517375109.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510c, last local path LOCAL_VOL002_NEW/20230215/37/202302151737510c.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375101::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375104::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375107::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510a::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510d::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375101, last local path LOCAL_VOL003_NEW/20230215/33/2023021517375101.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375104, last local path LOCAL_VOL003_NEW/20230215/34/2023021517375104.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375107, last local path LOCAL_VOL003_NEW/20230215/35/2023021517375107.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510a, last local path LOCAL_VOL003_NEW/20230215/36/202302151737510a.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510d, last local path LOCAL_VOL003_NEW/20230215/37/202302151737510d.
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375000::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375102::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375105::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375108::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510b::IMAGE
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:38:41] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375000, last local path LOCAL_VOL001_NEW/20230215/34/2023021517375000.
+[2023.02.15,17:38:42] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375102, last local path LOCAL_VOL001_NEW/20230215/35/2023021517375102.
+[2023.02.15,17:38:42] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375105, last local path LOCAL_VOL001_NEW/20230215/36/2023021517375105.
+[2023.02.15,17:38:42] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375108, last local path LOCAL_VOL001_NEW/20230215/37/2023021517375108.
+[2023.02.15,17:38:42] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510b, last local path LOCAL_VOL001_NEW/20230215/38/202302151737510b.
+[2023.02.15,17:38:42] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:38:42] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:38:49] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375100::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375103::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375106::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375109::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510c::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375100, last local path LOCAL_VOL002_NEW/20230215/33/2023021517375100.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375103, last local path LOCAL_VOL002_NEW/20230215/34/2023021517375103.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375106, last local path LOCAL_VOL002_NEW/20230215/35/2023021517375106.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375109, last local path LOCAL_VOL002_NEW/20230215/36/2023021517375109.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510c, last local path LOCAL_VOL002_NEW/20230215/37/202302151737510c.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375101::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375104::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375107::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510a::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510d::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375101, last local path LOCAL_VOL003_NEW/20230215/33/2023021517375101.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375104, last local path LOCAL_VOL003_NEW/20230215/34/2023021517375104.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375107, last local path LOCAL_VOL003_NEW/20230215/35/2023021517375107.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510a, last local path LOCAL_VOL003_NEW/20230215/36/202302151737510a.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510d, last local path LOCAL_VOL003_NEW/20230215/37/202302151737510d.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375000::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375102::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375105::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517375108::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151737510b::IMAGE
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375000, last local path LOCAL_VOL001_NEW/20230215/34/2023021517375000.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375102, last local path LOCAL_VOL001_NEW/20230215/35/2023021517375102.
+[2023.02.15,17:38:51] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375105, last local path LOCAL_VOL001_NEW/20230215/36/2023021517375105.
+[2023.02.15,17:38:52] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 2023021517375108, last local path LOCAL_VOL001_NEW/20230215/37/2023021517375108.
+[2023.02.15,17:38:52] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Error - download There are no available archives that can access content for element 202302151737510b, last local path LOCAL_VOL001_NEW/20230215/38/202302151737510b.
+[2023.02.15,17:38:52] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:38:52] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.15,17:40:23] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393300::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393400::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393403::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393406::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393409::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393300::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393400::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393403::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393406::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393409::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393301::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393401::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393404::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393407::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340a::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393301::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393401::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393404::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393407::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340a::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393302::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393402::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393405::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393408::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340b::IMAGE
+[2023.02.15,17:40:25] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.15,17:40:26] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393302::IMAGE
+[2023.02.15,17:40:26] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393402::IMAGE
+[2023.02.15,17:40:26] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393405::IMAGE
+[2023.02.15,17:40:26] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::2023021517393408::IMAGE
+[2023.02.15,17:40:26] [com.ecm.download.Down_run.download(Down_run.java:128)}] - Success - download XTORM_MAIN::202302151739340b::IMAGE
+[2023.02.15,17:40:26] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.15,17:40:26] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----

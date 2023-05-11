@@ -1,0 +1,146 @@
+[2023.02.14,10:19:44] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:19:45] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141300::IMAGE
+[2023.02.14,10:19:45] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141301::IMAGE
+[2023.02.14,10:19:45] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141302::IMAGE
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141303::IMAGE
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141304::IMAGE
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.update(Down_run.java:200)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:19:46] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Failed to update..ORA-00933: SQL 명령어가 올바르게 종료되지 않았습니다
+
+[2023.02.14,10:19:46] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:20:29] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141305::IMAGE
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141306::IMAGE
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141307::IMAGE
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141308::IMAGE
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Success - download XCARM_MAIN::2023021409141309::IMAGE
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.update(Down_run.java:200)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Failed to update..ORA-00933: SQL 명령어가 올바르게 종료되지 않았습니다
+
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.update(Down_run.java:203)}] - Failed to update..ORA-12899: "XCARM"."ASYSCONTENTELEMENT"."VOLUMEID" 열에 대한 값이 너무 큼(실제: 19, 최대값: 16)
+
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.download(Down_run.java:119)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:20:31] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Failed to update..ORA-00933: SQL 명령어가 올바르게 종료되지 않았습니다
+
+[2023.02.14,10:20:31] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:22:51] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:22:53] [com.ecm.download.Down_run.run(Down_run.java:77)}] - run() error, Trailing char < > at index 22: C:\dev/LOCALDISK01     /202302140914130a
+[2023.02.14,10:22:53] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:23:20] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:23:22] [com.ecm.download.Down_run.run(Down_run.java:77)}] - run() error, Trailing char < > at index 22: C:\dev/LOCALDISK01     \202302140914130a
+[2023.02.14,10:23:22] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:23:47] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:23:48] [com.ecm.download.Down_run.run(Down_run.java:77)}] - run() error, Trailing char < > at index 22: C:/dev/LOCALDISK01     /202302140914130a
+[2023.02.14,10:23:49] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:25:27] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:25:28] [com.ecm.download.Down_run.selectVolumeList(Down_run.java:151)}] - Select Volume List Error, 부적합한 열 이름
+[2023.02.14,10:25:28] [com.ecm.download.Down_run.run(Down_run.java:48)}] - There's No Volume
+[2023.02.14,10:25:28] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:25:46] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:25:48] [com.ecm.download.Down_run.selectVolumeList(Down_run.java:151)}] - Select Volume List Error, ORA-00936: 누락된 표현식
+
+[2023.02.14,10:25:48] [com.ecm.download.Down_run.run(Down_run.java:48)}] - There's No Volume
+[2023.02.14,10:25:48] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:27:57] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:27:58] [com.ecm.download.Down_run.selectVolumeList(Down_run.java:151)}] - Select Volume List Error, ORA-00936: 누락된 표현식
+
+[2023.02.14,10:27:58] [com.ecm.download.Down_run.run(Down_run.java:48)}] - There's No Volume
+[2023.02.14,10:27:58] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:29:23] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:29:24] [com.ecm.download.Down_run.run(Down_run.java:57)}] - No Download Target File
+[2023.02.14,10:29:24] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:36:08] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:36:09] [com.ecm.download.Down_run.run(Down_run.java:57)}] - No Download Target File
+[2023.02.14,10:36:09] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:38:12] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:38:14] [com.ecm.download.Down_run.run(Down_run.java:77)}] - run() error, Trailing char < > at index 22: C:/dev/LOCALDISK01     /2023021409141300
+[2023.02.14,10:38:14] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,10:38:58] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141300::IMAGE
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141301::IMAGE
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141302::IMAGE
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141303::IMAGE
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141304::IMAGE
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.update(Down_run.java:202)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,10:39:00] [com.ecm.download.Down_run.recovery(Down_run.java:229)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.14,10:39:00] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,11:10:58] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,11:11:04] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.14,11:11:08] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download asysConnectData::xmit 1 --> Connection refused: connect
+[2023.02.14,11:11:45] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141300::IMAGE
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141301::IMAGE
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141302::IMAGE
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141303::IMAGE
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:124)}] - Success - download XCARM_MAIN::2023021409141304::IMAGE
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.update(Down_run.java:202)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.download(Down_run.java:121)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:11:47] [com.ecm.download.Down_run.recovery(Down_run.java:229)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.14,11:11:47] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,11:12:28] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141300::IMAGE
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141301::IMAGE
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141302::IMAGE
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141303::IMAGE
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141304::IMAGE
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.update(Down_run.java:203)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:12:30] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.14,11:12:30] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,11:16:26] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141304::IMAGE
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141305::IMAGE
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141306::IMAGE
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141307::IMAGE
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:125)}] - Success - download XCARM_MAIN::2023021409141308::IMAGE
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.update(Down_run.java:203)}] - Update Storage to Storage_NEW Successed!!
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.recovery(Down_run.java:230)}] - Update Storage_NEW to Storage Successed!!
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.update(Down_run.java:206)}] - Failed to update..인덱스에서 누락된 IN 또는 OUT 매개변수:: 5
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.download(Down_run.java:122)}] - Error - download Error accessing the archive definition tables (Volume LOCALDISK01_NEW isn't associated with any archive).
+[2023.02.14,11:16:28] [com.ecm.download.Down_run.recovery(Down_run.java:233)}] - Failed to update..인덱스에서 누락된 IN 또는 OUT 매개변수:: 5
+[2023.02.14,11:16:28] [com.ecm.download.Down_main.main(Down_main.java:81)}] - ----- Process End -----
+[2023.02.14,17:12:17] [com.ecm.download.Down_main.main(Down_main.java:40)}] - ----- Process Start -----
